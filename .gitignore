@@ -1,0 +1,9 @@
+IOS_View_Demos/IOS_View_Demos.xcodeproj/project.xcworkspace/xcuserdata/*
+
+.DS_Store
+*.xcworkspacedata
+*.lock
+*.xcuserstate
+IOS_View_Demos/Pods
+IOS_View_Demos/Pods/*
+*.xcuserstate
